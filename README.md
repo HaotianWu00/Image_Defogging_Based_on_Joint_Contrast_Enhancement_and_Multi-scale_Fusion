@@ -1,9 +1,9 @@
 # Image_Defogging_Based_on_Joint_Contrast_Enhancement_and_Multi-scale_Fusion
 ```
-@inproceedings{instructnerf2023,
-    author = {Haque, Ayaan and Tancik, Matthew and Efros, Alexei and Holynski, Aleksander and Kanazawa, Angjoo},
-    title = {Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions},
-    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision},
+@article{ CEMF   
+    author = {Junjie, Nie and Haotian, Wu and Shuyang, Yao},
+    title = {Image Defogging Based on Joint Contrast Enhancement and Multi-scale Fusion },
+    booktitle = {Proceedings of the IEEE International Conference on Power, Electronics and Computer Applications },
     year = {2023},
 }
 ```
